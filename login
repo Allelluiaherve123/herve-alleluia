@@ -63,7 +63,7 @@
     <form>
         <input type="text" placeholder="Username" required>
         <input type="password" placeholder="Password" required>
-        <button type="submit">Login here</button>
+        <button type="submit">Login ere</button>
     </form>
     <div class="footer">
         Don't have an account? Sign up
