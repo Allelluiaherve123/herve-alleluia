@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login page</title>
+    <title>Login page alleluia</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -59,7 +59,7 @@
 <body>
 
 <div class="login-container">
-    <h2>Login Bro</h2>
+    <h2>Login </h2>
     <form>
         <input type="text" placeholder="Username" required>
         <input type="password" placeholder="Password" required>
